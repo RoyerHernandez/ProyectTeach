@@ -130,3 +130,8 @@ C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTea
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTeachSolu.Backend.csproj.CopyComplete
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTeachSolu.Backend.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTeachSolu.Backend.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Common.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Common.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.dll.config

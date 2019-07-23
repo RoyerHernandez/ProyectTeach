@@ -5,7 +5,7 @@ namespace AppTeachSolu.ViewModels
     public class ProyectsViewModel
     {
 
-        public ObservableCollection<Proyects> Proyects { get; set; }
+       // public ObservableCollection<Proyect> Proyects { get; set; }
 
     }
 }
