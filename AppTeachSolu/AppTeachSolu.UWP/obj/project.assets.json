@@ -321,6 +321,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -329,6 +330,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -827,6 +837,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -835,6 +846,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -1334,6 +1354,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -1342,6 +1363,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -1665,6 +1695,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -1673,6 +1704,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -2171,6 +2211,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -2179,6 +2220,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -2678,6 +2728,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -2686,6 +2737,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -3184,6 +3244,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -3192,6 +3253,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     },
@@ -3691,6 +3761,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "AppTeachSolu.Common": "1.0.0",
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Forms": "3.1.0.697729"
         },
@@ -3699,6 +3770,15 @@
         },
         "runtime": {
           "bin/placeholder/AppTeachSolu.dll": {}
+        }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
         }
       }
     }
@@ -7549,6 +7629,11 @@
       "type": "project",
       "path": "../AppTeachSolu/AppTeachSolu.csproj",
       "msbuildProject": "../AppTeachSolu/AppTeachSolu.csproj"
+    },
+    "AppTeachSolu.Common/1.0.0": {
+      "type": "project",
+      "path": "../../AppTeachSolu.Common/AppTeachSolu.Common.csproj",
+      "msbuildProject": "../../AppTeachSolu.Common/AppTeachSolu.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {

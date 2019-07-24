@@ -15,5 +15,6 @@ namespace AppTeachSolu.Domain.Models
 
         }
 
+        public System.Data.Entity.DbSet<AppTeachSolu.Common.Models.Services> Services { get; set; }
     }
 }

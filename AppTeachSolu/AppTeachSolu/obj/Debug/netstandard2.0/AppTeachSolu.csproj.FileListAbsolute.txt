@@ -1,8 +1,12 @@
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\bin\Debug\netstandard2.0\AppTeachSolu.deps.json
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\bin\Debug\netstandard2.0\AppTeachSolu.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\bin\Debug\netstandard2.0\AppTeachSolu.pdb
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.csprojAssemblyReference.cache
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\Views\ProyectsPage.xaml.g.cs
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.csproj.CoreCompileInputs.cache
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.AssemblyInfoInputs.cache
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.AssemblyInfo.cs
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.pdb

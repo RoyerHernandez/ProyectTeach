@@ -49,6 +49,8 @@ C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\roslyn\vbc.r
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\roslyn\VBCSCompiler.exe
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\Antlr3.Runtime.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Common.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\EntityFramework.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\EntityFramework.SqlServer.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\Microsoft.AI.Agent.Intercept.dll
@@ -84,6 +86,10 @@ C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.W
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.WebPages.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.WebPages.Razor.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\WebGrease.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Common.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.dll.config
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\Newtonsoft.Json.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.Helpers.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.Mvc.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.Optimization.xml
@@ -91,7 +97,6 @@ C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.R
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.WebPages.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.WebPages.Deployment.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\System.Web.WebPages.Razor.xml
-C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\Newtonsoft.Json.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\Antlr3.Runtime.pdb
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\EntityFramework.xml
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\EntityFramework.SqlServer.xml
@@ -130,8 +135,3 @@ C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTea
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTeachSolu.Backend.csproj.CopyComplete
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTeachSolu.Backend.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\obj\Debug\AppTeachSolu.Backend.pdb
-C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Common.dll
-C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.dll
-C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Common.pdb
-C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.pdb
-C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Backend\bin\AppTeachSolu.Domain.dll.config

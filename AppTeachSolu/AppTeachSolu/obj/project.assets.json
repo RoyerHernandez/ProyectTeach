@@ -51,6 +51,15 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
+      },
+      "AppTeachSolu.Common/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AppTeachSolu.Common.dll": {}
+        }
       }
     }
   },
@@ -374,10 +383,16 @@
         "xamarin.forms.3.1.0.697729.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
+    },
+    "AppTeachSolu.Common/1.0.0": {
+      "type": "project",
+      "path": "../../AppTeachSolu.Common/AppTeachSolu.Common.csproj",
+      "msbuildProject": "../../AppTeachSolu.Common/AppTeachSolu.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "AppTeachSolu.Common >= 1.0.0",
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 12.0.2",
       "Xamarin.Forms >= 3.1.0.697729"
@@ -412,7 +427,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\royer\\source\\repos\\ProyectoDeploy\\AppTeachSolu.Common\\AppTeachSolu.Common.csproj": {
+              "projectPath": "C:\\Users\\royer\\source\\repos\\ProyectoDeploy\\AppTeachSolu.Common\\AppTeachSolu.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
