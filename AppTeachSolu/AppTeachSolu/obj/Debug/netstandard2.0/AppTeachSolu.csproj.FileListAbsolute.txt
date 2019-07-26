@@ -10,3 +10,6 @@ C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\n
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.dll
 C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\bin\Debug\netstandard2.0\AppTeachSolu.Common.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\bin\Debug\netstandard2.0\AppTeachSolu.Common.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu\obj\Debug\netstandard2.0\AppTeachSolu.csproj.CopyComplete
