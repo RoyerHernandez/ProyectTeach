@@ -1,0 +1,1 @@
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu\AppTeachSolu.UWP\AppTeachSolu.UWP.csproj;x86

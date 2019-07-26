@@ -1,0 +1,9 @@
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\bin\Release\AppTeachSolu.Common.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\bin\Release\AppTeachSolu.Common.pdb
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\bin\Release\Newtonsoft.Json.xml
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\obj\Release\AppTeachSolu.Common.csprojAssemblyReference.cache
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\obj\Release\AppTeachSolu.Common.csproj.CoreCompileInputs.cache
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\obj\Release\AppTeachSolu.Common.csproj.CopyComplete
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\obj\Release\AppTeachSolu.Common.dll
+C:\Users\royer\source\repos\ProyectoDeploy\AppTeachSolu.Common\obj\Release\AppTeachSolu.Common.pdb
